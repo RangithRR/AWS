@@ -1,0 +1,26 @@
+# AWS Learning Journey
+
+I am currently learning Amazon Web Services (AWS) and building my cloud skills step by step.
+
+## 🔹 What I Learned
+
+### 1. What is AWS?
+AWS (Amazon Web Services) is a cloud computing platform that provides on-demand IT resources like servers, storage, and databases with a pay-as-you-go model.
+
+### 2. EC2 (Elastic Compute Cloud)
+- EC2 is a virtual server in AWS
+- Used to run applications and host websites
+- We can launch, stop, and manage instances
+
+### 3. S3 (Simple Storage Service)
+- S3 is an object storage service
+- Used to store files like images, videos, and documents
+- Data can be accessed from anywhere
+
+### 4. EC2 vs S3
+- EC2 → Compute service (run applications)
+- S3 → Storage service (store files)
+
+### 5. IAM (Identity and Access Management)
+- IAM is used to manage users and permissions
+- Controls who can access AWS resources

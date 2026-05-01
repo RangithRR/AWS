@@ -1,0 +1,6 @@
+ EC2 Instance Launch & Windows Server Setup
+
+- Launched EC2 instance in AWS
+- Configured key pair and security group
+- Connected to Windows server using RDP
+- Understood instance type, AMI, and networking basics

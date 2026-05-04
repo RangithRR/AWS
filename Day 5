@@ -1,0 +1,10 @@
+AWS EC2 + Linux (WSL) + Web Server Setup
+🚀 What I Learned
+
+Today I worked on connecting my local system to AWS EC2 using Linux (WSL) and hosted a web server.
+
+🖥️ Ubuntu (WSL) Setup
+Installed Ubuntu using Windows Subsystem for Linux (WSL)
+Learned basic Linux commands:
+ls, pwd, whoami
+Understood difference between root user and normal user

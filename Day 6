@@ -1,0 +1,11 @@
+AWS EC2 Web Server (Live Deployment)
+🚀 Progress
+Launched a new EC2 instance on AWS
+Connected to instance using SSH from Ubuntu (WSL)
+Fixed key permission issues by moving .pem file to Linux environment
+Configured Security Groups:
+Enabled SSH (Port 22)
+Enabled HTTP (Port 80)
+Installed Apache web server on Ubuntu instance
+Started and enabled Apache service
+Successfully accessed Apache default page via browser

@@ -1,0 +1,6 @@
+Route 53
+Learned Amazon Route 53 DNS management and domain routing concepts
+Created and configured Public Hosted Zones in Route 53
+Implemented DNS records including A Records for domain mapping
+Connected domain routing with AWS EC2 public IP addresses
+Practiced AWS cloud networking and traffic routing fundamentals

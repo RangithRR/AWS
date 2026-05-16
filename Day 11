@@ -1,0 +1,8 @@
+Cloud-Based Website Hosting and Monitoring System using AWS
+
+
+Built a cloud-based website hosting and monitoring system using AWS services
+Hosted applications using Amazon EC2 and static website hosting using Amazon S3
+Configured CloudWatch alarms to monitor EC2 CPU utilization and server performance
+Implemented SNS email notifications for automated cloud monitoring alerts
+Managed AWS IAM users, permissions, and Route 53 DNS configuration for secure cloud operations

@@ -1,0 +1,6 @@
+REVISION
+Deployed and managed cloud-based applications using Amazon EC2 and S3
+Configured IAM users and permissions for secure AWS access management
+Implemented Route 53 DNS records for domain and traffic routing
+Monitored EC2 performance using Amazon CloudWatch metrics and alarms
+Integrated SNS email notifications for automated cloud monitoring alerts

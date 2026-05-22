@@ -1,0 +1,10 @@
+Explored AWS IAM users, groups, and policies
+Learned authentication and authorization concepts in AWS
+Practiced assigning IAM users to groups based on job roles
+Understood managed policies and inline policies in IAM
+Learned role-based access control for EC2 and S3 support teams
+Explored IAM sign-in URL and multi-user AWS account access
+Tested permission-based access control using different IAM users
+Learned read-only and admin-level permissions for AWS services
+Practiced secure AWS identity and access management concepts
+Understood real-world AWS security and access management scenarios

@@ -1,0 +1,12 @@
+What I Learned Today
+Learned the fundamentals of containers and why they are used in modern cloud applications
+Explored Amazon ECS (Elastic Container Service) for deploying and managing Docker containers on AWS
+Learned Amazon EKS (Elastic Kubernetes Service) and its use for running Kubernetes workloads on AWS
+Understood the difference between ECS and EKS in real-world cloud environments
+Learned the concept of serverless computing and how AWS manages infrastructure automatically
+Explored AWS Fargate as a serverless container service for running containers without managing EC2 servers
+Understood the benefits of Fargate including reduced server management, automatic scaling, and cost optimization
+Learned AWS Lambda and event-driven architecture concepts
+Explored real-world Lambda use cases such as automation, monitoring, and file processing
+Practiced scenario-based AWS architecture decision making for startups and microservices applications
+Improved understanding of cloud-native application deployment and modern AWS compute services

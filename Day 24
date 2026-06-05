@@ -1,0 +1,11 @@
+Revised AWS Compute services including EC2, Lambda, ECS, EKS, and Fargate
+Learned the purpose of AWS Networking services such as VPC, Subnets, Internet Gateway, Route Tables, Security Groups, and Virtual Private Gateway (VGW)
+Understood the difference between Default VPC and Custom VPC and their use cases
+Learned how to design VPCs with public and private subnets for secure application architectures
+Explored AWS storage services including Amazon S3, EBS, RDS, and their real-world use cases
+Understood the difference between Object Storage (S3) and Block Storage (EBS)
+Learned why Amazon S3 is ideal for storing photos, videos, and unstructured data
+Learned why Amazon EBS and RDS are suitable for databases and frequently updated application data
+Explored EBS features such as persistent storage, snapshots, and volume types
+Practiced AWS architecture and storage decision-making through scenario-based questions
+Improved understanding of choosing the right AWS service based on application requirements and workload patterns

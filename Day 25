@@ -1,0 +1,8 @@
+S3        = Object Storage (Photos, Videos, Documents)
+EBS       = Block Storage (EC2 Hard Disk)
+EFS       = Shared File Storage (Multiple EC2 Instances)
+RDS       = Relational Database (SQL)
+DynamoDB  = NoSQL Database
+Aurora    = High-Performance Relational Database
+ElastiCache = In-Memory Cache
+Redshift  = Analytics & Data Warehousing

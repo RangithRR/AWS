@@ -1,0 +1,12 @@
+Launched and configured AWS EC2 instances.
+Explored both Linux and Windows EC2 environments.
+Connected to Linux EC2 using SSH.
+Connected to Windows Server EC2 using RDP.
+Learned the purpose of AWS Key Pairs for secure instance access.
+Understood common SSH connection errors and troubleshooting methods.
+Learned Linux user privileges and the purpose of the sudo command.
+Practiced basic Linux commands for navigation and file management.
+Created and hosted a simple web page on an EC2 web server.
+Explored Apache web server concepts and website deployment basics.
+Learned the difference between normal users and the root user in Linux.
+Gained hands-on experience with EC2 instance management and remote access.
